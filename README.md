@@ -13,7 +13,7 @@ Analysis Highlights:-
 4.Market Segmentation: Identify market segments based on customer preferences and buying behavior.
 
 Excel Workbook
-The analysis is conducted using Microsoft Excel. You can access the Excel workbook containing the analysis here Download Excel file Replace 'https://docs.google.com/spreadsheets/d/1bmpHBFsp1y_oEQbQWNI2e12keurFVbxt/edit?usp=drive_link&ouid=100559539431142293376&rtpof=true&sd=true'.(it will take few moment's and then download it)
+The analysis is conducted using Microsoft Excel. You can access the Excel workbook containing the analysis here Download Excel file Replace 'https://docs.google.com/spreadsheets/d/1bmpHBFsp1y_oEQbQWNI2e12keurFVbxt/edit?usp=drive_link&ouid=100559539431142293376&rtpof=true&sd=true'.  (it will take few moment's and then download it)
 
 Instructions
 To explore the analysis:-
