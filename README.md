@@ -5,6 +5,7 @@ This repository contains an Excel-based analysis of Europe bike sales data, aimi
 Analysis Highlights:-
 
 1.Revenue Trends: Explore the revenue trends over time and across different regions in Europe.
+
 2.Customer Demographics: Analyze customer demographics such as age, gender, and location to understand buyer profiles.
 3.Product Performance: Evaluate the performance of different bike models, brands, or categories based on sales volume and revenue.
 4.Market Segmentation: Identify market segments based on customer preferences and buying behavior.
