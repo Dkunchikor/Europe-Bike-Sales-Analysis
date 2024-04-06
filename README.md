@@ -7,16 +7,22 @@ Analysis Highlights:-
 1.Revenue Trends: Explore the revenue trends over time and across different regions in Europe.
 
 2.Customer Demographics: Analyze customer demographics such as age, gender, and location to understand buyer profiles.
+
 3.Product Performance: Evaluate the performance of different bike models, brands, or categories based on sales volume and revenue.
+
 4.Market Segmentation: Identify market segments based on customer preferences and buying behavior.
 
 Excel Workbook
-The analysis is conducted using Microsoft Excel. You can access the Excel workbook containing the analysis here Download Excel file Replace 'https://docs.google.com/spreadsheets/d/1bmpHBFsp1y_oEQbQWNI2e12keurFVbxt/edit?usp=drive_link&ouid=100559539431142293376&rtpof=true&sd=true'.(it will take few moment;s and then download it)
+The analysis is conducted using Microsoft Excel. You can access the Excel workbook containing the analysis here Download Excel file Replace 'https://docs.google.com/spreadsheets/d/1bmpHBFsp1y_oEQbQWNI2e12keurFVbxt/edit?usp=drive_link&ouid=100559539431142293376&rtpof=true&sd=true'.(it will take few moment's and then download it)
 
 Instructions
 To explore the analysis:
 
 1.Download the Excel Workbook: Click on the link above to download the Excel file.
+
 2.Navigate Through Sheets: Explore different sheets within the workbook to view pivot tables, charts, and detailed analysis.
+
 3.Interpret Findings: Review the analysis to gain insights into Europe bike sales trends and performance metrics.
 
+Contact Information
+For any questions or collaborations related to this analysis, feel free to reach out via dhruvkunchikor10@gmail.com 
